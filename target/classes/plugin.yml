@@ -1,0 +1,9 @@
+name: BedwarsTrainer
+author: Jeyzer
+version: 1.0.0
+main: coral.bedwars.trainer.Coral
+depend: [LuckPerms]
+commands:
+  debugloc:
+    aliases: [locationdebug, printloc, printlocation]
+  bridging: {}
